@@ -1,6 +1,6 @@
 # Bonjour à vous ! 🧀 🍷 🥖
 
-<p text="center"> ⚡️ Qui suis-je ? ⚡️<p/>
+<p align="center"> ⚡️ Qui suis-je ? ⚡️<p/>
     
 Je suis Mehdi. 35 ans, amateur de code, de bières et barbu!
     
