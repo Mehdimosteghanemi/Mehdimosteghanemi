@@ -4,6 +4,8 @@ I´m Raphael, system administrator in germany bavaria
 
 ## 🚀💻 Technologies & Tools
 
+<p align="center">
+
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
@@ -16,6 +18,8 @@ I´m Raphael, system administrator in germany bavaria
 
   ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
   ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
+  
+  <p>
   
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Mehdimosteghanemi&show_icons=true&count_private=true&theme=gruvbox" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehdimosteghanemi&layout=compact&count_private=true&theme=gruvbox" />
