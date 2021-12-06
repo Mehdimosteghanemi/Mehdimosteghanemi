@@ -1,9 +1,10 @@
 # Bonjour à vous ! 🧀 🍷 🥖
 
-## ⚡️ Qui suis-je ? ⚡️
+<p> ⚡️ Qui suis-je ? ⚡️
     
 Je suis Mehdi. 35 ans, amateur de code, de bières et barbu!
-
+    
+<p/>
 ## 🛠  Technologies and tools
 
 <a name="learning-now"></a>
