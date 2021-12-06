@@ -1,6 +1,8 @@
 ## Bonjour à vous! 🧀 🍷 🥖
 
-I´m Mehdi, Developer in France.
+    ⚡️ Qui suis-je ? ⚡️
+    
+Je suis Mehdi. 35 ans, amateur de code, de bières et barbu!
 
 ## 🛠  Technologies and tools
 
