@@ -10,9 +10,9 @@ I´m Mehdi, Developer in France.
   
   **Social Media:**
 
-[![GitHub](icons/github.png)](https://github.com/hussainweb)
-[![Twitter](icons/twitter.png)](https://twitter.com/hussainweb)
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/hussainweb/)
+[![GitHub](img/github.png)](https://github.com/hussainweb)
+[![Twitter](img/twitter.png)](https://twitter.com/hussainweb)
+[![LinkedIn](img/linkedin.png)](https://www.linkedin.com/in/hussainweb/)
   
   **Learning:**
 
