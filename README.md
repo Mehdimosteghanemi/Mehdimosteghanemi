@@ -4,7 +4,7 @@ I´m Mehdi, Developer in France.
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
 
-## 🛠  Technologies and tools
+## 🛠  Technologies and tools
 
 <a name="learning-now"></a>
 
@@ -32,7 +32,6 @@ I´m Mehdi, Developer in France.
 &nbsp;
 [<img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />][tech_tools_anchor]
 
-<a name="learning-next"></a>
   
   **Social Media:**
 
