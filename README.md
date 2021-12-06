@@ -1,4 +1,4 @@
-![Cover](https://github.com/Mehdimosteghanemi/Mehdimosteghanemi/blob/master/img/cover.jpg)
+![Cover](https://github.com/Mehdimosteghanemi/Mehdimosteghanemi/img/cover.jpg)
 
 
 ### Hi there 👋
