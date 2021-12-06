@@ -16,7 +16,6 @@ I´m Raphael, system administrator in germany bavaria
 
   ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
   ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
-  ![Cisco](https://img.shields.io/badge/Cisco-black?style=flat-square&logo=cisco)
-
+  
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Mehdimosteghanemi.Mehdimosteghanemi)
