@@ -24,6 +24,11 @@ I´m Raphael, system administrator in germany bavaria
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Mehdimosteghanemi&show_icons=true&count_private=true&theme=gruvbox" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehdimosteghanemi&layout=compact&count_private=true&theme=gruvbox" />
 
+  <p align="center">
+    <a href="https://github.com/Mehdimosteghanemi"><img src="imgs/github.svg" alt="GitHub"></a>
+    <a href="https://twitter.com/Mehdi_FDev"><img src="imgs/twitter.svg" alt="Twitter"></a>
+    <a href="https://www.linkedin.com/in/mehdi-mosteghanemi/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+  <p>
   
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Mehdimosteghanemi.Mehdimosteghanemi)
