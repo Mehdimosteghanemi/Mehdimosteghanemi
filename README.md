@@ -2,8 +2,6 @@
 
 I´m Mehdi, Developer in France.
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
-
 ## 🛠  Technologies and tools
 
 <a name="learning-now"></a>
