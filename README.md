@@ -19,6 +19,18 @@ I´m Raphael, system administrator in germany bavaria
   ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
   ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
   
+  **Social Media:**
+
+[![GitHub](icons/github.png)](https://github.com/hussainweb)
+[![Twitter](icons/twitter.png)](https://twitter.com/hussainweb)
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/hussainweb/)
+  
+  **Learning:**
+
+<a href="https://www.docker.com/" title="Docker"><img src="img/docker.png" /></a>
+<a href="https://vuejs.org/" title="Vue.js"><img src="img/vuejs.png" /></a>
+
+  
   <p>
   
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Mehdimosteghanemi&show_icons=true&count_private=true&theme=gruvbox" />
