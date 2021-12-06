@@ -2,9 +2,13 @@
 
 <p align="center"> ⚡️ Qui suis-je ? ⚡️<p/>
     
-Je suis Mehdi. 35 ans, amateur de code, de bières et barbu!
+💈 Je suis Mehdi. 35 ans, amateur de code, de bières et barbu !
+🛖 J' habite à Tourcoing et on sait tous que c'est en France,
+🎒 Formation de développeur web dispensée par l'école O'Clock,
+🖥️ Développeur PHP/Symfony et ouvert à tout langage si nécessaire,
+🎲 Et pour finir, je suis un grand fan de jeux de société !!
     
-<p/>
+
 ## 🛠  Technologies and tools
 
 <a name="learning-now"></a>
