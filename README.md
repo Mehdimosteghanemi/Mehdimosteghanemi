@@ -1,4 +1,4 @@
-# Bonjour à vous ! 🧀 🍷 🥖
+# Bonjour vous ! 🧀 🍷 🥖
 
 <p align="center"> ⚡️ Qui suis-je ? ⚡️<p/>
     
