@@ -24,7 +24,7 @@
   **Learning:**
 
 <a href="https://www.docker.com/" title="Docker"><img src="img/docker.png" /></a>
-<a href="https://vuejs.org/" title="Vue.js"><img src="img/vuejs.png" /></a>
+<a href="https://fr.reactjs.org/" title="Vue.js"><img src="img/react.svg" /></a>
 
   
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Mehdimosteghanemi&show_icons=true&count_private=true&theme=gruvbox" />
